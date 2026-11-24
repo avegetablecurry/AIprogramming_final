@@ -1,2 +1,0 @@
-SHAP 완료: 기준값 5.440, 기여도 합계 -0.132
-2027 결과 52행, 검증 111행 저장: /workspace/scratch/e16be3dc1614/Admissions_2027/results
